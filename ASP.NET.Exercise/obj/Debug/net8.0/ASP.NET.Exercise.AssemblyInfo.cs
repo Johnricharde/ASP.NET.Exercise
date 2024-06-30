@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NET.Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01d04896397c3e58af27d51ffd0627d2c16316d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NET.Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NET.Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

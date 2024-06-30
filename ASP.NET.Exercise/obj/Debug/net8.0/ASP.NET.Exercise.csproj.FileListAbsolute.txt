@@ -28,3 +28,4 @@ C:\Users\John\Desktop\Dev Folder\myProjects\ASP.NET.Exercise\ASP.NET.Exercise\ob
 C:\Users\John\Desktop\Dev Folder\myProjects\ASP.NET.Exercise\ASP.NET.Exercise\obj\Debug\net8.0\ASP.NET.Exercise.pdb
 C:\Users\John\Desktop\Dev Folder\myProjects\ASP.NET.Exercise\ASP.NET.Exercise\obj\Debug\net8.0\ASP.NET.Exercise.genruntimeconfig.cache
 C:\Users\John\Desktop\Dev Folder\myProjects\ASP.NET.Exercise\ASP.NET.Exercise\obj\Debug\net8.0\ref\ASP.NET.Exercise.dll
+C:\Users\John\Desktop\Dev Folder\myProjects\ASP.NET.Exercise\ASP.NET.Exercise\obj\Debug\net8.0\ASP.NET.Exercise.sourcelink.json

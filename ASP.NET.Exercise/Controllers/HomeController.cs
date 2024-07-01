@@ -28,6 +28,11 @@ namespace ASP.NET.Exercise.Controllers
             return View();
         }
 
+        public IActionResult CreateEditExpenseForm(Expense model)
+        {
+            return RedirectToAction("Expenses");
+        }
+
         public IActionResult Privacy()
         {
             return View();
